@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6F505DB6286F7E06004A5BB9 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F505DB5286F7E06004A5BB9 /* Constants.swift */; };
+		6F505DB8286F7F38004A5BB9 /* ColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F505DB7286F7F38004A5BB9 /* ColorPickerView.swift */; };
 		6FD10B8B286F67BB0076E3FC /* OpenMindApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FD10B8A286F67BB0076E3FC /* OpenMindApp.swift */; };
 		6FD10B8D286F67BB0076E3FC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FD10B8C286F67BB0076E3FC /* ContentView.swift */; };
 		6FD10B8F286F67C30076E3FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FD10B8E286F67C30076E3FC /* Assets.xcassets */; };
@@ -34,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6F505DB5286F7E06004A5BB9 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		6F505DB7286F7F38004A5BB9 /* ColorPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerView.swift; sourceTree = "<group>"; };
 		6FD10B87286F67BB0076E3FC /* OpenMind.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OpenMind.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FD10B8A286F67BB0076E3FC /* OpenMindApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenMindApp.swift; sourceTree = "<group>"; };
 		6FD10B8C286F67BB0076E3FC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -98,6 +102,8 @@
 				6FD10B8C286F67BB0076E3FC /* ContentView.swift */,
 				6FD10B8E286F67C30076E3FC /* Assets.xcassets */,
 				6FD10B90286F67C30076E3FC /* Preview Content */,
+				6F505DB5286F7E06004A5BB9 /* Constants.swift */,
+				6F505DB7286F7F38004A5BB9 /* ColorPickerView.swift */,
 			);
 			path = OpenMind;
 			sourceTree = "<group>";
@@ -257,8 +263,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6F505DB8286F7F38004A5BB9 /* ColorPickerView.swift in Sources */,
 				6FD10B8D286F67BB0076E3FC /* ContentView.swift in Sources */,
 				6FD10B8B286F67BB0076E3FC /* OpenMindApp.swift in Sources */,
+				6F505DB6286F7E06004A5BB9 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
