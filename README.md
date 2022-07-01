@@ -6,3 +6,4 @@ currently you can only install the app with xcode.
 > 2. then go to your folder directory and find the xcode project 
 > 3. And at least run the project in your xcode 
 
+<img src="https://raw.githubusercontent.com/Nico-T-Ihle/GoodNoteClone/main/IMG_0157.PNG" />
