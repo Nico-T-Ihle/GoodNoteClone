@@ -9,5 +9,4 @@ currently you can only install the app with xcode.
 <img src="https://raw.githubusercontent.com/Nico-T-Ihle/GoodNoteClone/main/IMG_0157.PNG" />
 
 ## upcoming features 🔨
-> 1. Delete Function 
-> 2. Button for saving your notes to you finder
+
